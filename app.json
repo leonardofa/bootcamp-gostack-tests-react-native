@@ -1,0 +1,17 @@
+{
+  "name": "bootcamp-gostack-tests-react-native",
+  "displayName": "bootcamp-gostack-tests-react-native",
+  "expo": {
+    "name": "bootcamp-gostack-tests-react-native",
+    "slug": "bootcamp-gostack-tests-react-native",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
